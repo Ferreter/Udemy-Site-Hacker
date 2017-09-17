@@ -10,7 +10,7 @@ How To run Udemy Site HAcker -
  
     a)Linux - There is an Executable File for Linux which you can run direcly 
     
-    b)Windows & Mac - You Need to download these files and install python on your system then you need to run Hacking Udemy(GUI).py
+    b)Windows & Mac - You Need to download these files and install python on your system then you need to run Udemy_Hacker_Main.py
 
 3)Enjoy   
     
