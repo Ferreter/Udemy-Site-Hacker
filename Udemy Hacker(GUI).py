@@ -1,31 +1,31 @@
 from Tkinter import *
-import Hacking_Udemy
+import Udemy_Hacker
 import tkMessageBox
 
 #Functions For Success Code
 def Succesful_HAcking():
     tkMessageBox.showinfo("Thanks For Using", "Hacking Courses Succesfully Taken Press Ok To Continue ")
-    Hacking_Udemy.hacking_courses()
+    Udemy_Hacker.hacking_courses()
 
 def Succesful_Programming():
     tkMessageBox.showinfo("Thanks For Using", "Programming Courses Course Succesfully Taken Press Ok To Continue")
-    Hacking_Udemy.Programming_courses()
+    Udemy_Hacker.Programming_courses()
 
 def Succesful_Lifestyle():
     tkMessageBox.showinfo("Thanks For Using", "Lifestyle Courses Succesfully Taken Press Ok To Continue")
-    Hacking_Udemy.Lifestyle_courses()
+    Udemy_Hacker.Lifestyle_courses()
 
 def Succesful_Marketing():
     tkMessageBox.showinfo("Thanks For Using", "Marketing Courses Succesfully Taken Press Ok To Continue")
-    Hacking_Udemy.Marketing_courses()
+    Udemy_Hacker.Marketing_courses()
 
 def Succesful_Design():
     tkMessageBox.showinfo("Thanks For Using", "Design Courses Succesfully Taken Press Ok To Continue")
-    Hacking_Udemy.Designing_Courses()
+    Udemy_Hacker.Designing_Courses()
 
 def Succesful_All():
     tkMessageBox.showinfo("Thanks For Using", "All Courses Succesfully Taken Press Ok To Continue")
-    Hacking_Udemy.All_Courses()
+    Udemy_Hacker.All_Courses()
 
 #Creation Of MAin Window and Configuration
 
